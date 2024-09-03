@@ -51,9 +51,9 @@
         "onboardingStep2TestMode": "Aktiviere den 'Testmodus' wenn du Zahlungen nur testen möchtest.",
         "onboardingStep3": "Weise die Zahlungsarten deinen Verkaufskanälen zu.",
         "onboardingStep3Link": "Verkaufskanäle öffnen",
-        "btnDocumentation": "Dokumentation",
+        "btnDocumentation": "Mollie Help",
         "btnRequestSupport": "Support",
-        "btnTroubleshooting": "zu den Fehlerbehebungen"
+        "btnTroubleshooting": "Entwicklerhandbuch"
       },
       "api": {
         "apiLinkButton": "Erhalten Sie Ihre API Keys vom Mollie Dashboard",

@@ -51,9 +51,9 @@
         "onboardingStep2TestMode": "Turn on 'Test Mode' if you want to only test payments.",
         "onboardingStep3": "Assign payment methods to your sales channel.",
         "onboardingStep3Link": "to your sales channels",
-        "btnDocumentation": "Documentation",
+        "btnDocumentation": "Mollie Help",
         "btnRequestSupport": "Support",
-        "btnTroubleshooting": "Troubleshooting Guide"
+        "btnTroubleshooting": "Developer Guide"
       },
       "api": {
         "apiLinkButton": "Get your API keys from the Mollie Dashboard",
